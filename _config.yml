@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小飞飞的博客
-subtitle:
+title: 小飞的博客 ~ xiaofeis.com 
+subtitle: 记录学习的过程
 description:
 keywords:
-author: 小飞飞
+author: 小飞
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://iamxiaofeifei.com
+url: http://blog.yitian.art
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

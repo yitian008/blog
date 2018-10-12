@@ -1,7 +1,6 @@
 ---
-title: hexo安装、常用指令、更换主题、文章分类
+title: hexo-nginx部署
 date: 2018-10-08 21:21:29
-description: hexo初体验，介绍基本的操作
 categories:
 - hexo专题
 tags:
